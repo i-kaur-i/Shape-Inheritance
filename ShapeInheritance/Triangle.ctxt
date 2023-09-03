@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Triangle\ here.\n\n\ @author\ Iakjot\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ s
+comment1.target=Triangle(int,\ int,\ int)
+comment1.text=\n\ This\ constructor\ is\ to\ take\ the\ side\ length\ and\ base\ and\ set\ it.\n\ \n\ I\ passed\ in\ the\ parameters\ and\ then\ used\ the\ super\ class.\n\ Then\ I\ set\ the\ sidelength\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment2.params=side
+comment2.target=void\ setSideLength(int)
+comment2.text=\n\ This\ method\ is\ to\ set\ the\ side\ length\ of\ the\ triangle.\n\ \n\ I\ set\ the\ instance\ variable\ sideLength\ to\ the\ parameter\ passed\ in.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment3.params=
+comment3.target=int\ getSideLength()
+comment3.text=\n\ This\ method\ is\ to\ get\ the\ side\ length\ of\ the\ triangle.\n\ \n\ I\ returned\ the\ side\ length\ variable.\n\n\ @param\:\ none\n\ *return\:\ int\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\n\ This\ method\ is\ to\ get\ the\ area\ of\ the\ triangle.\n\ \n\ I\ used\ the\ instance\ variables\ and\ multiplied\ them\ together\n\ and\ then\ multiplied\ by\ two\ to\ get\ the\ area\ of\ the\n\ triangle.\n\n\ @param\:\ none\n\ *return\:\ double\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\n\ This\ method\ is\ to\ draw\ the\ triangle.\n\ \n\ I\ created\ an\ object\ and\ then\ created\ two\ arrays\ to\ get\ the\ sidelength\n\ and\ the\ area\ of\ the\ triangle.\n\ \n\n\ @param\:\ int\n\ *return\:\ none\n
+numComments=6

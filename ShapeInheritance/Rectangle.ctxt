@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rectangle\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ xx\ yy
+comment1.target=Rectangle(int,\ int,\ int,\ int)
+comment1.text=\n\ This\ constructor\ is\ initalize\ the\ heigh\ and\ width\ and\ then\ set\ it.\n\ \n\ I\ passed\ in\ the\ parameters\ and\ called\ the\ super\ class.\ Then\ I\ \n\ set\ the\ width\ and\ height\ of\ the\ rectangle\ of\ the\ parameters\n\ passed\ in.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment2.text=\n\ This\ method\ is\ to\ get\ the\ height\ of\ the\ rectangle.\n\ \n\ I\ returned\ the\ height.\n\n\ @param\:\ none\n\ *return\:\ int\n
+comment3.params=
+comment3.target=int\ getWidth()
+comment3.text=\n\ This\ method\ is\ to\ get\ width\ of\ the\ rectangle.\n\ \n\ I\ returned\ the\ width\n\n\ @param\:\ none\n\ *return\:\ int\n
+comment4.params=xx
+comment4.target=void\ setHeight(int)
+comment4.text=\n\ This\ method\ is\ to\ set\ the\ height\ of\ the\ rectangle.\n\ \n\ I\ set\ the\ instance\ variable\ height\ to\ the\ parameter\ passed\ in.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment5.params=xy
+comment5.target=void\ setWidth(int)
+comment5.text=\n\ This\ method\ is\ to\ set\ the\ width\ of\ the\ rectangle.\n\ \n\ I\ set\ the\ instance\ variable\ width\ to\ the\ parameter\ passed\ in.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment6.params=
+comment6.target=double\ getArea()
+comment6.text=\n\ This\ method\ is\ to\ get\ the\ area\ of\ the\ rectangle.\n\ \n\ I\ returned\ the\ height\ multiplied\ by\ the\ width\ to\ get\ \n\ the\ area\ of\ the\ reactangle.\n\n\ @param\:\ none\n\ *return\:\ double\n
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+comment7.text=\n\ This\ method\ is\ to\ draw\ the\ rectangle.\n\ \n\ I\ made\ an\ object\ and\ then\ filled\ in\ the\ rectangle\ using\n\ the\ width\ and\ height.\n\n\ @param\:\ object\n\ *return\:\ none\n
+numComments=8

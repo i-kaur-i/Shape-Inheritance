@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Spray
+comment0.text=\n\ Class\ Spray\n\n\ Not\ exactly\ the\ most\ obvious\ choice,\ and\ this\ has\ no\ getArea()\ implementation\!\n\ This\ is\ so\ I\ didn't\ give\ away\ everything\ to\ this\ assignment.\ \ \=)\n\n\ Author\:\ Rob\ Nash\n
+comment1.params=a\ b
+comment1.target=Spray(int,\ int)
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+numComments=3

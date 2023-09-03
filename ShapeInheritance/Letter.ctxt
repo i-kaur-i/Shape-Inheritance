@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Letter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Letter\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y\ s
+comment1.target=Letter(int,\ int,\ int)
+comment1.text=\n\ This\ constructor\ is\ to\ initalize\ the\ letter\ variables\ and\ set\ the\ size.\n\ \n\ I\ passed\ in\ the\ parameters\ and\ used\ the\ super\ class.\n\ And\ then\ I\ set\ the\ size\ using\ the\ setSize\ method.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\n\ This\ method\ is\ to\ get\ the\ size\ of\ the\ letter.\n\ \n\ I\ returned\ the\ instance\ variable\ of\ the\ size.\n\n\ @param\:\ none\n\ *return\:\ int\n
+comment3.params=size
+comment3.target=void\ setSize(int)
+comment3.text=\n\ This\ method\ is\ to\ set\ the\ size\ of\ the\ letter.\n\ \n\ I\ set\ the\ instance\ variable\ size\ to\ the\ parameter\ passed\ in.\n\n\ @param\:\ int\n\ *return\:\ none\n
+comment4.params=
+comment4.target=double\ getArea()
+comment4.text=\n\ This\ method\ is\ to\ set\ the\ area\ of\ the\ letter.\n\ \n\ I\ returned\ the\ instance\ variable\ size\ multiplied\ by\ itself\ and\ then\n\ divided\ by\ 4\ and\ then\ multiplied\ that\ outcome\ by\ two.\n\ \n\ @param\:\ none\n\ *return\:\ double\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\n\ This\ method\ is\ to\ draw\ the\ letter.\n\ \n\ I\ used\ the\ font\ to\ set\ it\ to\ default\ and\ then\ drew\ a\ string\n\ and\ got\ the\ sizes\ and\ the\ ints.\n\ \n\ @param\:\ none\n\ *return\:\ double\n
+numComments=6

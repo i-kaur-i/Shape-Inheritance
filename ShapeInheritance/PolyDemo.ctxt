@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PolyDemo
+comment0.text=\n\ Class\ PolyDemo\ (is\ a\ JFrame)\ and\ PolyDemoPanel\ (is\ a\ JPanel)\n\n\ Author\:\ Rob\ Nash\n
+comment1.params=
+comment1.target=PolyDemo()
+comment1.text=\n\ This\ constructor\ is\ to\ set\ and\ initialize\ variables.\n\ \n\ The\ poly\ demo\ panel\ is\ added\ and\ the\ size\ is\ set.\n\ The\ visibility\ is\ there.\n\ \n\ @param\:\ none\n\ *return\:\ none\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ This\ method\ is\ to\ test\ the\ shapes.\n\ \n\ a\ new\ object\ is\ created\ and\ stored.\n\ \n\ @param\:\ none\n\ *return\:\ none\n
+numComments=3
